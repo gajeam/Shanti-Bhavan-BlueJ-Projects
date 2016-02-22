@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=void\ drawRectangle(int,\ int)
+comment1.params=width\ height
+comment1.target=void\ drawParallelogram(int,\ int)
+comment2.params=dimension
+comment2.target=void\ drawRightTriangle(int)
+comment3.params=
+comment3.target=void\ madeUpShape()
+numComments=4
