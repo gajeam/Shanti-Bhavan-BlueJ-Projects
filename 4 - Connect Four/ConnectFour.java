@@ -44,7 +44,6 @@ public class ConnectFour
          * Now why is this called a game loop? Well, in it you'll have a loop that gets
          * called over and over again until either the game is won or it's a draw (i.e.
          * the board gets filled up and no one wins.)
-         * 
          */
         
     }
