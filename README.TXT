@@ -12,3 +12,4 @@ Here are the assignments each project is associated with:
 2 - Choose Your Own Adventure : if/else and switch statements
 3 - GrocerMe : Arrays
 4 - Connect Four : 2D Arrays
+4a - Connect Four AI : Super cool computer hacking powers
