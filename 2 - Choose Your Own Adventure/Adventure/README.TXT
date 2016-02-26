@@ -1,5 +1,5 @@
 -------------------------
-ASCII ART PROJECT
+CHOOSE YOUR OWN ADVENTURE PROJECT
 
 Author: Gabriel Nicholas
 Date: 21 February, 2016
