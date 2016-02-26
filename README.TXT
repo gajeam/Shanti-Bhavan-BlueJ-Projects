@@ -1,4 +1,4 @@
-##Shanti Bhavan Computer Projects
+## Shanti Bhavan Computer Projects
 
 Hi Shanti Bhavan students! It's your old friend Gabe here. In this repository, you can find a list of projects for you to work on. Each one contains a README.txt with instructions on how to do the assignment.
 
