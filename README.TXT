@@ -1,8 +1,8 @@
-## Shanti Bhavan Computer Projects
+** Shanti Bhavan Computer Projects **
 
 Hi Shanti Bhavan students! It's your old friend Gabe here. In this repository, you can find a list of projects for you to work on. Each one contains a README.txt with instructions on how to do the assignment.
 
-To download this project, right click *Download Zip*, select *Save Link As*, and save it to your desktop.
+To download this project, right click *Download Zip*, select *Save Link As*, and save it to your desktop. Then, right click the zip file and select "Extract Here."
 
 These projects are aimed at 11th and 12th grade students, although brave 9th and 10th graders are more than welcome to try them.
 
